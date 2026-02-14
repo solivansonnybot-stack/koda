@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-02-14T13:14:19.751710",
+  "workspaces_backed_up": [
+    {
+      "path": "/data/.openclaw/workspace",
+      "name": "workspace",
+      "files": 15
+    },
+    {
+      "path": "/data/.openclaw/workspace-koda",
+      "name": "workspace-koda",
+      "files": 8
+    },
+    {
+      "path": "/data/.openclaw/workspace-elliot",
+      "name": "workspace-elliot",
+      "files": 6
+    }
+  ],
+  "backup_status": "success"
+}
