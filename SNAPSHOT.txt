@@ -1,0 +1,6 @@
+OpenClaw Backup Snapshot
+Timestamp: 2026-02-14 12:43:03
+Workspaces:
+  - /data/.openclaw/workspace: EXISTS
+  - /data/.openclaw/workspace-koda: EXISTS
+  - /data/.openclaw/workspace-elliot: EXISTS

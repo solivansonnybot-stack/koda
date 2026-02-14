@@ -108,7 +108,7 @@
 
 ### Git Backup
 - **Repositório:** https://github.com/solivansonnybot-stack/koda.git
-- **Token:** [REDACTED]
+- **Token:** [TOKEN_REMOVED]
 - **Status:** Configurar backup diário às 00:00 e comando /Backup manual
 
 ### Workspace
